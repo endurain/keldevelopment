@@ -1,0 +1,19 @@
+{
+  "name": "kelschels",
+  "version": "1.0.0",
+  "description": "Stay tuned! tes test etst",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endurain/keldevelopment.git"
+  },
+  "author": "Endurain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endurain/keldevelopment/issues"
+  },
+  "homepage": "https://github.com/endurain/keldevelopment#readme"
+}
