@@ -7,7 +7,7 @@
  * copy this file to "wp-config.php" and fill in the values.
  *
  * This file contains the following configurations:
- *
+ *some teset content here
  * * MySQL settings
  * * Secret keys
  * * Database table prefix
@@ -17,6 +17,7 @@
  *
  * @package WordPress
  */
+
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */

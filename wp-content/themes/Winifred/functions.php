@@ -22,6 +22,7 @@ function sections_endpoint ( $request_data ) {
   }
   return $posts;
 }
+
 add_action('rest_api_init', function () {
   register_rest_route( 'sections/v1', '/post/', array(
     'methods' => 'GET',
